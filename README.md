@@ -114,4 +114,6 @@ However, if you don't want text to be bold or italics, just say small and blue, 
 `<span>` doesn't apply any additional styles, so it's perfect for text you just want to modify with the classes in the work skin. Also, if my explanation of block and inline elements didn't make total sense, feel free to check out [W3Schools' much better explanation](https://www.w3schools.com/html/html_blocks.asp) if that didn't make sense.
 
 ## Conclusion
+If you're going to be making extensive use of this system, I suggest downloading a free code editor like [Notepad++](https://notepad-plus-plus.org/downloads/) or [Visual Studio Code](https://code.visualstudio.com/), as an editor will help you keep track of your HTML tags and add contextual highlighting to your classes. Of course, do what's easiest for you.
+
 Feel free to modify this skin however you see fit, and if you find any bugs feel free to reach out to me or shoot a PR my way.
