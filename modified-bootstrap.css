@@ -529,3 +529,29 @@ p {
 .text-blue {
   color: #6FA8DC;
 }
+
+/* Display utilities */
+.d-inline-block {
+  display: inline-block;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.d-block {
+  display: block;
+}
+
+/* Padding utilities */
+.padding-right {
+  padding-right: 10px;
+}
+
+.padding-left {
+  padding-left: 10px;
+}
+
+.padding-x {
+  padding: 0 10px;
+}
